@@ -1,6 +1,6 @@
 rm platforms/android/build/outputs/apk/android-release-unsigned-aligned.apk
 rm platforms/android/build/outputs/apk/android-debug-unsigned-aligned.apk
-
+touch /Users/michaeltsang/Desktop/shared/af2/formiobuildissue/node_modules/ng2-formio/src/formio.component.css
 
 ionic cordova build android --prod --release
 
